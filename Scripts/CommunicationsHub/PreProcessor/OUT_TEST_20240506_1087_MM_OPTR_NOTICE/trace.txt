@@ -1,0 +1,102 @@
+Preprocessor startup: {
+    ClientCode          "118CG" (dualvar: 118),
+    DataFileName        "TEST_20240506_1087_MM_OPTR_NOTICE.XML",
+    ErrorFile           "error.txt",
+    Extras              "--inspirejob 800CH0011 --converter COCC_OverdraftProtection --startuponly",
+    JobDescription      "118CG0111 step 3 - Communication Hub Preprocessor DEV - COCC_OverdraftProtection # 999" (dualvar: 118),
+    JobNumber           "118CG0111" (dualvar: 118),
+    ProcessingsScript   "C:\Strawberry\Perl\bin\perl.exe connect2_convert.pl",
+    StartupFileName     "startup.txt",
+    TraceFile           "trace.txt"
+}
+Communications Hub ini: {
+    archive_base   {
+        non_prod     "\\csavcdsfpu1\ccsnage\archive",
+        production   "\\csavcdsfp1\ArchiveUS"
+    },
+    converter      {
+        COCC_AddressChange         [
+            [0] "perl",
+            [1] "COCC_Notice"
+        ],
+        COCC_OverdraftProtection   [
+            [0] "perl",
+            [1] "COCC_Notice"
+        ],
+        COCC_OverdraftService      [
+            [0] "perl",
+            [1] "COCC_Notice"
+        ],
+        COCC_SafeDepositBoxBill    [
+            [0] "perl",
+            [1] "COCC_Notice"
+        ],
+        COCC_TimeDepositRenewal    [
+            [0] "perl",
+            [1] "COCC_Notice"
+        ]
+    },
+    encompass      {
+        node   "BankConnect"
+    },
+    general        {
+        commhub_contract   "800CH" (dualvar: 800),
+        inspire_runjob     "C:/Source/Workspaces/CCSNA/Resource/Resource/Global/Programs/InspireRunJob/InspireRunJob.exe"
+    },
+    harness        {
+        perl   [
+            [0] "C:/Strawberry/perl/bin/perl.exe",
+            [1] "C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/perl_harness.pl"
+        ]
+    },
+    helper         {
+        get_ccs_setting      sub { ... },
+        get_chub_run_num     sub { ... },
+        get_client_run_num   sub { ... },
+        get_encompass_qco    sub { ... },
+        get_stream_setup     sub { ... }
+    },
+    inspire_env    {
+        development   "ccsccmusbld01",
+        preprod       "ccsccmuspre01",
+        production    "ccsccmusprd01",
+        uat           "ccsccmustst01"
+    },
+    stack          {
+        activestate_perl   "C:/Perl5.10.1/bin/perl.exe",
+        strawberry_perl    "C:/Strawberry/perl/bin/perl.exe"
+    }
+}
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_ccs_setting.pl gold_env
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_client_run_num.pl 118CG0111
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_chub_run_num.pl 800CH0011 uat 118CG0111 82
+RUNNING: C:/Strawberry/perl/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/perl_harness.pl --converter COCC_OverdraftProtection --contract 118CG0111 --run 82 --file TEST_20240506_1087_MM_OPTR_NOTICE.XML
+TEST_20240506_1087_MM_OPTR_NOTICE.XML -> 118CG0111.82.01.OverdraftProtection.json
+
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_encompass_qco.pl 118CG0111
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_stream_setup.pl 118CG0111
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_ccs_setting.pl site
+RUNNING: C:/Perl5.10.1/bin/perl.exe C:/preprocessor/Regional/US/Scripts/CommunicationsHub/PreProcessor/get_ccs_setting.pl aardvark_web_svc_appadmin_proxy
+InspireRunJob startup: {
+    _Q2GType            "COCC_Notice",
+    _requireSignOffYN   "No",
+    ClientCode          "800CH" (dualvar: 800),
+    DataFileName        [
+        [0] "TEST_20240506_1087_MM_OPTR_NOTICE.XML",
+        [1] "118CG0111.82.01.OverdraftProtection.json" (dualvar: 118),
+        [2] "118CG0111.82.QCO.json" (dualvar: 118)
+    ],
+    ErrorFile           "800CH0011.694.151.203039.error.txt" (dualvar: 800),
+    Extras              "--aardvarkAppAdminUri https://CSAVARDWEBUAT.americas.cshare.net/CCS_US_UAT_WS_4.1/AppAdmin/AppAdminWS.asmx --addJobQueue true --environment ccsccmustst01 --icmRegion US --jobConfigName JobConfig_OverdraftProtection.xml --q2g true --site Processing --streamSetupXML stream_setup_118CG0111_82.xml",
+    JobDescription      "800CH0011 - Step 4 - Communications Hub QA - 118CG0111 Run #82 OverdraftProtection - Run #694" (dualvar: 800),
+    JobNumber           "800CH0011" (dualvar: 800),
+    ProcessingScript    "(null)",
+    Product             "(null)",
+    ProgressFile        "800CH0011.694.151.203039.progress.txt" (dualvar: 800),
+    RunNumber           694,
+    SLAProcessCode      "All",
+    StartupFileName     "800CH0011.694.151.203039.startup.txt" (dualvar: 800),
+    TraceFile           "800CH0011.694.151.203039.trace.txt" (dualvar: 800)
+}
+Created InspireRunJob startup file '800CH0011.694.151.203039.startup.txt'
+RUNNING: C:/Source/Workspaces/CCSNA/Resource/Resource/Global/Programs/InspireRunJob/InspireRunJob.exe --startupfile 800CH0011.694.151.203039.startup.txt

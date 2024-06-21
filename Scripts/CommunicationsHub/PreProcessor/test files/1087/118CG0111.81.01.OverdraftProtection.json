@@ -1,0 +1,4328 @@
+{
+"HEADER" : {
+   "CONNECT_PRODUCT" : "Notice",
+   "DOCUMENT_TYPE" : "OverdraftProtection",
+   "CONTRACT" : "118CG0111",
+   "RUN_NUMBER" : "81",
+   "DERIVATIVE_FILE" : {
+      "TIME_CREATED" : "20:25:27",
+      "DATE_CREATED" : "2024-05-30",
+      "FILE_NAME" : "118CG0111.81.01.OverdraftProtection.json"
+   },
+   "RECORD_COUNT" : 70,
+   "CCS_CLIENT_CODE" : "118CG",
+   "ORIGINAL_FILE" : {
+      "FILE_NAME" : "TEST_20240506_1087_MM_OPTR_NOTICE.XML",
+      "TIME_RECEIVED" : "20:07:55",
+      "DATE_RECEIVED" : "2024-05-30"
+   }
+},
+"RECORDS" : [
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Mystic",
+      "ADDRESS_LINES" : [
+         "DANIEL A CROUCH",
+         "MARCIA E CROUCH",
+         "61 NEW LONDON RD"
+      ],
+      "POSTCODE" : "06355-2255"
+   },
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "500082145"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "55715",
+               "TRANSFER_AMOUNT" : "1032.93"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "1"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1003101",
+               "TRANSFER_AMOUNT" : "182.65"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "902010697"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Statement_Count" : "2",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-35.44",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06340-3408",
+      "ADDRESS_LINES" : [
+         "WARREN A SEABURY",
+         "130 WALKER HILL RD  "
+      ],
+      "CITY" : "GROTON",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "CITY" : "Niantic",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "ADDRESS_LINES" : [
+         "RITA MATTHEWS",
+         "47 GREEN CLIFF DR"
+      ],
+      "POSTCODE" : "06357-1523"
+   },
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1027463",
+               "TRANSFER_AMOUNT" : "25.82"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "504034757"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "3",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "-24.87",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "93.02",
+               "ACCOUNT_NUMBER" : "5008119"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "507008220"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "4",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "Baltic",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06330-1021",
+      "ADDRESS_LINES" : [
+         "TIMOTHY J RICATTA",
+         "ANNE E RICATTA",
+         "31 PINECREST LN"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "5"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "13.27",
+               "ACCOUNT_NUMBER" : "5012538"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "600050562"
+            }
+         },
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Preston",
+      "ADDRESS_LINES" : [
+         "ELAINA M MILLETTE",
+         "NORMAN E MILLETTE III",
+         "1 LAWRENCE CT"
+      ],
+      "POSTCODE" : "06365-8509"
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "-2.64",
+         "TRANSFER_FEE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "1087.43",
+               "ACCOUNT_NUMBER" : "5013990"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "600056884"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "6",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         }
+      }
+   ],
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Preston",
+      "POSTCODE" : "06365-8642",
+      "ADDRESS_LINES" : [
+         "ZACHARY R MAURICE",
+         "51 BRANCH HILL RD"
+      ]
+   },
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "507016191"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "119.79",
+               "ACCOUNT_NUMBER" : "6014982"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "7",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "CITY" : "Griswold",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "ADDRESS_LINES" : [
+         "RANDI L TRAHAN",
+         "28 SPENCER HOLLOW RD"
+      ],
+      "POSTCODE" : "06351-2666"
+   }
+},
+{
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "WILLIAM T DUCHARME",
+         "BONNIE J DUCHARME",
+         "241 BALTIC-HANOVER ROAD"
+      ],
+      "POSTCODE" : "06330-1100",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Baltic"
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "8",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "7006994",
+               "TRANSFER_AMOUNT" : "396.98"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "602010249"
+            }
+         }
+      }
+   ]
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06370-1736",
+      "ADDRESS_LINES" : [
+         "CHRISTOPHER P MANNER",
+         "MARGUERITE L CLARKE-MANNER",
+         "6 UTZ DR"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Oakdale"
+   },
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Statement_Count" : "9",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "8002252",
+               "TRANSFER_AMOUNT" : "382.6"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "505010327"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "CITY" : "Salem",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06420-3620",
+      "ADDRESS_LINES" : [
+         "DEBRA D DUPUIS",
+         "20 SALEM RIDGE DR NORTH"
+      ]
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "8004612",
+               "TRANSFER_AMOUNT" : "97.67"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "505019348"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Statement_Count" : "10",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "NANCY M MICHAUD",
+         "MARK A MICHAUD",
+         "35 R HAYWARD AVE"
+      ],
+      "POSTCODE" : "06415-1221",
+      "CITY" : "Colchester",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "505020541"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "2640.07",
+               "ACCOUNT_NUMBER" : "8004992"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Statement_Count" : "11",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "ADDRESS" : {
+      "POSTCODE" : "06360-6126",
+      "ADDRESS_LINES" : [
+         "MARJORY M WALTERS",
+         "RONALD H WALTERS",
+         "100 WHIPPLE AVE"
+      ],
+      "CITY" : "NORWICH",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "12",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "403.48",
+               "ACCOUNT_NUMBER" : "8203076"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113324717"
+            }
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-11.85",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ]
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06360-4914",
+      "ADDRESS_LINES" : [
+         "MELINDA L SATTERWHITE",
+         "18 PEARL ST"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Norwich"
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "-833.7",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "8204374",
+               "TRANSFER_AMOUNT" : "7"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114384629"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "13"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "-833.7"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LISA D HOAGLAND",
+         "MICHAEL HOAGLAND",
+         "4 RICHMOND LN"
+      ],
+      "POSTCODE" : "06355-3033",
+      "CITY" : "Mystic",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "260.95",
+               "ACCOUNT_NUMBER" : "500092503"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113180713"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "14"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "15",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "704000906",
+               "TRANSFER_AMOUNT" : "958.66"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "904003300"
+            }
+         },
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Mystic",
+      "ADDRESS_LINES" : [
+         "PAUL S WRAGG",
+         "135 ANN AVE"
+      ],
+      "POSTCODE" : "06355-1105"
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "02813-1025",
+      "ADDRESS_LINES" : [
+         "KAREN ANDERSON",
+         "ROBERT P ANDERSON",
+         "535 W BEACH RD"
+      ],
+      "CITY" : "Charlestown",
+      "TERRITORY" : "RI",
+      "COUNTRY" : "USA"
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "16",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112459218",
+               "TRANSFER_AMOUNT" : "319.94"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "901010679"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112524300"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "2149.12",
+               "ACCOUNT_NUMBER" : "1112524368"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "17",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Mystic",
+      "ADDRESS_LINES" : [
+         "RICHARD S CODY",
+         "34 CHURCH ST"
+      ],
+      "POSTCODE" : "06355-2739"
+   }
+},
+{
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "18",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112531769",
+               "TRANSFER_AMOUNT" : "207.5"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114056088"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Stonington",
+      "POSTCODE" : "06378-2927",
+      "ADDRESS_LINES" : [
+         "ROBINSON M COMEAU",
+         "291 ELM STREET"
+      ]
+   }
+},
+{
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "02808-1100",
+      "ADDRESS_LINES" : [
+         "ROBYN E ODONNELL",
+         "PHYLLIS E ODONNELL",
+         "20 BOWLING LN"
+      ],
+      "TERRITORY" : "RI",
+      "COUNTRY" : "USA",
+      "CITY" : "BRADFORD"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "19",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113508006"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112604037",
+               "TRANSFER_AMOUNT" : "28.56"
+            }
+         },
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "20",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "505003290"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "246.96",
+               "ACCOUNT_NUMBER" : "1112772066"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "CITY" : "Waterford",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06385-3728",
+      "ADDRESS_LINES" : [
+         "MARY B JOSEPH",
+         "AMY E SULLIVAN",
+         "GEORGE A JOSEPH",
+         "10 WESTCOTT RD THE STRAND"
+      ]
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   }
+},
+{
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHANTAL WATROUS",
+         "312 N STONINGTON RD"
+      ],
+      "POSTCODE" : "06378-1520",
+      "CITY" : "Stonington",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "21",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "503036312"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "118.05",
+               "ACCOUNT_NUMBER" : "1112862817"
+            }
+         },
+         "AVAILABLE_BALANCE" : "-77.27",
+         "TRANSFER_FEE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "22",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112897921",
+               "TRANSFER_AMOUNT" : "1017.01"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114116626"
+            }
+         }
+      }
+   ],
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Mystic",
+      "ADDRESS_LINES" : [
+         "LEO C ANTONINO",
+         "1095 FLANDERS RD"
+      ],
+      "POSTCODE" : "06355-1062"
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06378-2501",
+      "ADDRESS_LINES" : [
+         "LINDA L BURDICK",
+         "STEPHEN H BURDICK SR",
+         "110 FARMHOLME RD"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Stonington"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "502071802"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112901186",
+               "TRANSFER_AMOUNT" : "144.13"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "23",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "JANINA M HARTMAN",
+         "JEFFREY J HARTMAN",
+         "232 COLONEL LEDYARD HIGHWAY"
+      ],
+      "POSTCODE" : "06355-1136",
+      "CITY" : "Mystic",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113008254"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113008311",
+               "TRANSFER_AMOUNT" : "333.41"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "24",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "ANTHONY R DUNN",
+         "SARAH E DUNN",
+         "54 GLENDALE RD"
+      ],
+      "POSTCODE" : "06370-1712",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "OAKDALE"
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "-14.99",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "25",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "94.72",
+               "ACCOUNT_NUMBER" : "1113168967"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112558507"
+            }
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-29.98"
+      }
+   ]
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113467137",
+               "TRANSFER_AMOUNT" : "327.12"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113467129"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "26",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         }
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "KRISTINE L SAVAGE",
+         "LISA M OUELLETTE",
+         "47 C ST"
+      ],
+      "POSTCODE" : "06340-5360",
+      "CITY" : "Groton",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   }
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "27",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113316897"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113480543",
+               "TRANSFER_AMOUNT" : "23.77"
+            }
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Gales Ferry",
+      "POSTCODE" : "06335-1814",
+      "ADDRESS_LINES" : [
+         "WENDY J BICKNELL",
+         "10 MEADOW DR"
+      ]
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   }
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "28.26",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Statement_Count" : "28",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "1200",
+               "ACCOUNT_NUMBER" : "1113523575"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113468482"
+            }
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "28.26"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "RI",
+      "CITY" : "Westerly",
+      "ADDRESS_LINES" : [
+         "DIMITRI VOICECHOVSKI",
+         "RAE RANDO VOICECHOVSKI",
+         "2 WILLIAMSBURG DRIVE"
+      ],
+      "POSTCODE" : "02891-3032"
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   }
+},
+{
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "BALTIC",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06330-1032",
+      "ADDRESS_LINES" : [
+         "YVETTE C BLAIS",
+         "1 THOMAS AVE"
+      ]
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113549513",
+               "TRANSFER_AMOUNT" : "250"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113549505"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "28"
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "NORWICH",
+      "POSTCODE" : "06360-4315",
+      "ADDRESS_LINES" : [
+         "SHAUN C YON",
+         "GRETCHEN A PHILBRICK",
+         "27 STURTEVANT AVENUE"
+      ]
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "-233.8",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "29"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112967469"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113561848",
+               "TRANSFER_AMOUNT" : "61.45"
+            }
+         },
+         "CURRENT_BALANCE" : "-233.8",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "128.74",
+               "ACCOUNT_NUMBER" : "1113565890"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113565882"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Statement_Count" : "30",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "AVAILABLE_BALANCE" : "-300.73",
+         "TRANSFER_FEE" : "0",
+         "CURRENT_BALANCE" : "0.000000000000028",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "ADDRESS" : {
+      "CITY" : "Pawcatuck",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "ADDRESS_LINES" : [
+         "STEPHEN S MEAGHER",
+         "JANICE C MEAGHER",
+         "118 CASTLE HILL RD"
+      ],
+      "POSTCODE" : "06379-1988"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "TIMOTHY J SOUSA",
+         "TARA L SOUSA",
+         "TAMMY L SOUSA",
+         "18 SMITH ST"
+      ],
+      "POSTCODE" : "06357-2524",
+      "CITY" : "Niantic",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "-515",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "-1030",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113733885",
+               "TRANSFER_AMOUNT" : "67.12"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "512010624"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Statement_Count" : "31",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         }
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "ADDRESS" : {
+      "POSTCODE" : "06320-3050",
+      "ADDRESS_LINES" : [
+         "EMILY G LANZAROTTO",
+         "281 GARDNER AVE UNIT H1"
+      ],
+      "CITY" : "NEW LONDON",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Statement_Count" : "32",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113751275",
+               "TRANSFER_AMOUNT" : "589.46"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114130014"
+            }
+         }
+      }
+   ]
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Mystic",
+      "POSTCODE" : "06355-2416",
+      "ADDRESS_LINES" : [
+         "ANNA T TROIANO",
+         "148 HIGH ST"
+      ]
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114052862"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113751316",
+               "TRANSFER_AMOUNT" : "3044.42"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "33",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "AVAILABLE_BALANCE" : "-9.56",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06371-0304",
+      "ADDRESS_LINES" : [
+         "KATIA N KINGSTON",
+         "PO BOX 304"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Old Lyme"
+   },
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "34",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113767016",
+               "TRANSFER_AMOUNT" : "46.39"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113767008"
+            }
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "-10.5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "35",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113772081",
+               "TRANSFER_AMOUNT" : "15.45"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113278815"
+            }
+         },
+         "AVAILABLE_BALANCE" : "-21",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06359-1203",
+      "ADDRESS_LINES" : [
+         "KRISTA M VERNO",
+         "NICHOLAS E VERNO",
+         "38 MAINS CROSSING"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "North Stonington"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "CITY" : "NORWICH",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06360-4926",
+      "ADDRESS_LINES" : [
+         "GENOVEVA DIP",
+         "JAIME R DIP",
+         "15 MALAVENDA LANE"
+      ]
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "-58.44",
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-58.44",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113053522"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "325",
+               "ACCOUNT_NUMBER" : "1113793665"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "36",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR"
+         }
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "37",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113910029"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113910037",
+               "TRANSFER_AMOUNT" : "75.32"
+            }
+         },
+         "AVAILABLE_BALANCE" : "-47",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "PAUL B REAMS",
+         "11 CARNOT CT"
+      ],
+      "POSTCODE" : "06379-2424",
+      "CITY" : "Pawcatuck",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "UNCASVILLE",
+      "POSTCODE" : "06382-1107",
+      "ADDRESS_LINES" : [
+         "JOSEPH P KONONCHIK",
+         "ELAINE M KONONCHIK",
+         "8 LIBBY DR"
+      ]
+   },
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "-47.06",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-292.71",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "18.99",
+               "ACCOUNT_NUMBER" : "1113929765"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112914080"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "38",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "MIRGEN E UZHURI",
+         "ANXHELA UZHURI",
+         "3 CATBIRD LN"
+      ],
+      "POSTCODE" : "06333-1334",
+      "CITY" : "East Lyme",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113826755"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113962468",
+               "TRANSFER_AMOUNT" : "1287.23"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "39",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "40",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114059751"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114009714",
+               "TRANSFER_AMOUNT" : "79.31"
+            }
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "500"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06340-2732",
+      "ADDRESS_LINES" : [
+         "ERICA A LUPO",
+         "70 ORCHARD DRIVE"
+      ],
+      "CITY" : "Groton",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "JACOB W CHERENZIA",
+         "437 EKONK HILL RD"
+      ],
+      "POSTCODE" : "06384-1312",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "VOLUNTOWN"
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0.000000000000014",
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-177.9",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "176.33",
+               "ACCOUNT_NUMBER" : "1114091240"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114190894"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Statement_Count" : "41",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Stonington",
+      "ADDRESS_LINES" : [
+         "BRUCE S ANDERSON",
+         "28 PELLEGRINO RD"
+      ],
+      "POSTCODE" : "06378-2128"
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114127706",
+               "TRANSFER_AMOUNT" : "183.41"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1112968623"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "42",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "-32.24",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "-16.12"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "-220",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "43",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "65.94",
+               "ACCOUNT_NUMBER" : "1114210569"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113512685"
+            }
+         },
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "WATERFORD",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06385-1527",
+      "ADDRESS_LINES" : [
+         "VINCENZA M KARASEVICZ",
+         "13 WILCOX CT"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "ANTHONY V WALSTRA",
+         "DENISE S WALSTRA",
+         "13 INDIAN VALLEY DR"
+      ],
+      "POSTCODE" : "06385-1144",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "Waterford"
+   },
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "44",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114226558",
+               "TRANSFER_AMOUNT" : "579.14"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114226491"
+            }
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-26.74",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114341330"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114238149",
+               "TRANSFER_AMOUNT" : "32.52"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "45",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHRISSY D MCSWAIN",
+         "19 MEADOW WOOD DR"
+      ],
+      "POSTCODE" : "06359-1510",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "NORTH STONINGTON"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "CITY" : "Mystic",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06355-1028",
+      "ADDRESS_LINES" : [
+         "MORGAN D BRIGHTMAN",
+         "MICHELLE M UMRYSZ",
+         "62 YETTER ROAD"
+      ]
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "46",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114242265"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114242257",
+               "TRANSFER_AMOUNT" : "5.55"
+            }
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "DANIEL S COATES",
+         "BRENDA L PAYNE",
+         "105 GALLUP HILL RD"
+      ],
+      "POSTCODE" : "06339-1613",
+      "CITY" : "LEDYARD",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Statement_Count" : "47",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113989280"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114245368",
+               "TRANSFER_AMOUNT" : "43.41"
+            }
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-33.9"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "Niantic",
+      "POSTCODE" : "06357-2748",
+      "ADDRESS_LINES" : [
+         "LAURA J NESTA",
+         "2 OAK ST"
+      ]
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "48",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114299480"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "78.52",
+               "ACCOUNT_NUMBER" : "1114299498"
+            }
+         }
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "5.78",
+               "ACCOUNT_NUMBER" : "1114315054"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113711112"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "49",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "NORWICH",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06360-3456",
+      "ADDRESS_LINES" : [
+         "XING WANG",
+         "YOU LIAN YU",
+         "21 ONECO ST UNIT 3"
+      ]
+   }
+},
+{
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "PAWCATUCK",
+      "POSTCODE" : "06379-2518",
+      "ADDRESS_LINES" : [
+         "KATE MURPHY",
+         "12 ELAINE ST"
+      ]
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "-157.19",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "AVAILABLE_BALANCE" : "-157.19",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "50",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114326382"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "5",
+               "ACCOUNT_NUMBER" : "1114326374"
+            }
+         }
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114342081"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "66.35",
+               "ACCOUNT_NUMBER" : "1114344409"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "51"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0"
+      }
+   ],
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "THOMAS L BEAUDOIN",
+         "2224 GLASGO RD"
+      ],
+      "POSTCODE" : "06351-9115",
+      "CITY" : "Griswold",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "SNEDIKER YACHT RESTORATION LLC",
+         "22 MECHANIC ST"
+      ],
+      "POSTCODE" : "06379-2134",
+      "CITY" : "Pawcatuck",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "89.51",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114283607"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114361651",
+               "TRANSFER_AMOUNT" : "1700"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "52",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "AVAILABLE_BALANCE" : "89.51",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Statement_Count" : "53",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114417941"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114417917",
+               "TRANSFER_AMOUNT" : "24.66"
+            }
+         },
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "CITY" : "DANBURY",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06810-4110",
+      "ADDRESS_LINES" : [
+         "SOPHIA D FOSS",
+         "12 POCONO LN"
+      ]
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114476864",
+               "TRANSFER_AMOUNT" : "126.91"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114262370"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "54"
+         },
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail"
+      }
+   ],
+   "ADDRESS" : {
+      "CITY" : "Salem",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06420-3707",
+      "ADDRESS_LINES" : [
+         "HANNAH J MENDILLO",
+         "KYLE R MENDILLO",
+         "520 OLD COLCHESTER RD"
+      ]
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1113772825"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "2.11",
+               "ACCOUNT_NUMBER" : "1114546641"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "55",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "AVAILABLE_BALANCE" : "-53",
+         "TRANSFER_FEE" : "5",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "DONNA B SANFORD",
+         "120 W MAIN ST"
+      ],
+      "POSTCODE" : "06330-1034",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "BALTIC"
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Statement_Count" : "56",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "13.64",
+               "ACCOUNT_NUMBER" : "1114558307"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114512113"
+            }
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "NORTH STONINGTON",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06359-1201",
+      "ADDRESS_LINES" : [
+         "KAYLA G SULLIVAN",
+         "54 JEREMY HILL RD"
+      ]
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "MYSTIC",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "ADDRESS_LINES" : [
+         "NIKHIL A PATEL",
+         "HIMANSHIBEN A PATEL",
+         "ALKESH H PATEL",
+         "14 FOX RUN LANE"
+      ],
+      "POSTCODE" : "06355-1160"
+   },
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "-22.41",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114565857",
+               "TRANSFER_AMOUNT" : "36.88"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114565849"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "57",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-76.67"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "DALE R TAYLOR",
+         "136 HUNTERS RD LOT 138"
+      ],
+      "POSTCODE" : "06360-1919",
+      "CITY" : "NORWICH",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT"
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "-36.2",
+         "TRANSFER_FEE" : "5",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "57.83",
+               "ACCOUNT_NUMBER" : "1114582760"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114556012"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "58",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "-18.1"
+      }
+   ]
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Statement_Count" : "59",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114596745",
+               "TRANSFER_AMOUNT" : "73.81"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114596737"
+            }
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "POSTCODE" : "06355-1811",
+      "ADDRESS_LINES" : [
+         "ANN ESPOSITO",
+         "KENNETH F SOEDER",
+         "5 GROVE AVE"
+      ],
+      "CITY" : "Mystic",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "JENNIFER CHANGEUX",
+         "100 LAURA LANE APT A6"
+      ],
+      "POSTCODE" : "06067-1534",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "ROCKY HILL"
+   },
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114261926"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "322.58",
+               "ACCOUNT_NUMBER" : "1114614068"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Statement_Count" : "60",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "5",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK"
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "61",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "601060922"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114615256",
+               "TRANSFER_AMOUNT" : "22.61"
+            }
+         },
+         "AVAILABLE_BALANCE" : "-18.21",
+         "TRANSFER_FEE" : "5"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "QUAKER HILL",
+      "ADDRESS_LINES" : [
+         "JOHN A GUARINO",
+         "DIANA W GUARINO",
+         "3 PORTER ST"
+      ],
+      "POSTCODE" : "06375-1515"
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   }
+},
+{
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "WATERFORD",
+      "POSTCODE" : "06385-2025",
+      "ADDRESS_LINES" : [
+         "OLIVIA C MARSH",
+         "34 MINER AVE"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CURRENT_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "62",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114657969",
+               "TRANSFER_AMOUNT" : "13.56"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114657951"
+            }
+         },
+         "AVAILABLE_BALANCE" : "-2",
+         "TRANSFER_FEE" : "5"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "ADDRESS" : {
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "CITY" : "PAWCATUCK",
+      "ADDRESS_LINES" : [
+         "SERGIO F DEOLIVEIRA",
+         "ANA M DEOLIVEIRA",
+         "45 LATHROP AVE"
+      ],
+      "POSTCODE" : "06379-1905"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "0",
+         "TRANSFER_FEE" : "5",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Statement_Count" : "63",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114703861",
+               "TRANSFER_AMOUNT" : "8.48"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114825798"
+            }
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114325516"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "516.72",
+               "ACCOUNT_NUMBER" : "1114775894"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "64",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "AVAILABLE_BALANCE" : "-82",
+         "TRANSFER_FEE" : "5",
+         "CURRENT_BALANCE" : "-41",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "POSTCODE" : "06320-3522",
+      "ADDRESS_LINES" : [
+         "CHRISTINA A NOCITO",
+         "25 WALDEN AVE"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "NEW LONDON"
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   }
+},
+{
+   "ADDRESS" : {
+      "POSTCODE" : "06340-5048",
+      "ADDRESS_LINES" : [
+         "JOHN W FREEBY",
+         "245 BENHAM RD APT J 8"
+      ],
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "GROTON"
+   },
+   "WORKFLOW" : {
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "-9.99",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "65",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114846265",
+               "TRANSFER_AMOUNT" : "152.76"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114846257"
+            }
+         },
+         "TRANSFER_FEE" : "5",
+         "AVAILABLE_BALANCE" : "-19.98"
+      }
+   ]
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "CITY" : "Waterford",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "06385-3704",
+      "ADDRESS_LINES" : [
+         "AFFORDABLE SERVICES GOSHEN ROAD LLC",
+         "21 GOSHEN RD"
+      ]
+   },
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "LODGE" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "81.22",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "66"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "1300",
+               "ACCOUNT_NUMBER" : "1114868938"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114160524"
+            }
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "CURRENT_BALANCE" : "81.22"
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-05-06",
+      "ACCOUNT_NUMBER" : null
+   }
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "ADDRESS" : {
+      "POSTCODE" : "06382-2023",
+      "ADDRESS_LINES" : [
+         "JODY L MACHADO",
+         "575 OLD COLCHESTER RD"
+      ],
+      "CITY" : "Uncasville",
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA"
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1
+   },
+   "BRAND_CODE" : "0",
+   "DOCUMENTS" : [
+      {
+         "CURRENT_BALANCE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114870339"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "61.38",
+               "ACCOUNT_NUMBER" : "1114870355"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "67",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         }
+      }
+   ],
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   }
+},
+{
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "CT",
+      "COUNTRY" : "USA",
+      "CITY" : "VOLUNTOWN",
+      "POSTCODE" : "06384-1115",
+      "ADDRESS_LINES" : [
+         "ELIZABETH M WYLAND",
+         "280 CONGDON RD"
+      ]
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087",
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "68",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114421421"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "27",
+               "ACCOUNT_NUMBER" : "1114939523"
+            }
+         },
+         "AVAILABLE_BALANCE" : "500",
+         "TRANSFER_FEE" : "5",
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "BRAND_CODE" : "0"
+},
+{
+   "CLIENT_NAME" : "CHELSEA GROTON BANK",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-05-06"
+   },
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "-65.57",
+         "CUSTOM_FIELDS" : {
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Notice_Date" : "2024-05-06",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "69",
+            "File_Information/Creation_Date" : "2024-05-07",
+            "File_Information/Appl_Number" : "1600"
+         },
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "25",
+               "ACCOUNT_NUMBER" : "1114960940"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "1114807168"
+            }
+         },
+         "CURRENT_BALANCE" : "-65.57",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail"
+      }
+   ],
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "VIEWPOINT" : 1
+   },
+   "ADDRESS" : {
+      "CITY" : "Norwich",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "CT",
+      "ADDRESS_LINES" : [
+         "THADDEUS CZYZEWSKI JR",
+         "BEATRICE L CZYZEWSKI",
+         "15 BANAS CT"
+      ],
+      "POSTCODE" : "06360-6003"
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "CHELSEA GROTON BANK",
+         "904 Poquonnock Rd",
+         "Groton  CT  06340-6629"
+      ]
+   },
+   "EXTERNAL_CLIENT_CODE" : "1087"
+}
+]
+}
