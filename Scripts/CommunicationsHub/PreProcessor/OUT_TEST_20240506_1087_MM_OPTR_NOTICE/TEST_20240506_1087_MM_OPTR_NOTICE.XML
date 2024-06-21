@@ -1,0 +1,3783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CCS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
+<Pack>
+<Addressee>
+<Address_Line_1>DANIEL A CROUCH</Address_Line_1>
+<Address_Line_2>MARCIA E CROUCH</Address_Line_2>
+<Address_Line_3>61 NEW LONDON RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-2255</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>1</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>55715</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>1032.93</From_Tran_Amt>
+<To_AcctNbr>500082145</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>WARREN A SEABURY</Address_Line_1>
+<Address_Line_2>130 WALKER HILL RD  </Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>GROTON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06340-3408</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>2</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-35.44</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1003101</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>182.65</From_Tran_Amt>
+<To_AcctNbr>902010697</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>RITA MATTHEWS</Address_Line_1>
+<Address_Line_2>47 GREEN CLIFF DR</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Niantic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06357-1523</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>3</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1027463</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>25.82</From_Tran_Amt>
+<To_AcctNbr>504034757</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>TIMOTHY J RICATTA</Address_Line_1>
+<Address_Line_2>ANNE E RICATTA</Address_Line_2>
+<Address_Line_3>31 PINECREST LN</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Baltic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06330-1021</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>4</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-24.87</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>5008119</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>93.02</From_Tran_Amt>
+<To_AcctNbr>507008220</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ELAINA M MILLETTE</Address_Line_1>
+<Address_Line_2>NORMAN E MILLETTE III</Address_Line_2>
+<Address_Line_3>1 LAWRENCE CT</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Preston</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06365-8509</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>5</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>5012538</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>13.27</From_Tran_Amt>
+<To_AcctNbr>600050562</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ZACHARY R MAURICE</Address_Line_1>
+<Address_Line_2>51 BRANCH HILL RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Preston</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06365-8642</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>6</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-2.64</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>5013990</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>1087.43</From_Tran_Amt>
+<To_AcctNbr>600056884</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>RANDI L TRAHAN</Address_Line_1>
+<Address_Line_2>28 SPENCER HOLLOW RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Griswold</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06351-2666</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>7</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>6014982</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>119.79</From_Tran_Amt>
+<To_AcctNbr>507016191</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>WILLIAM T DUCHARME</Address_Line_1>
+<Address_Line_2>BONNIE J DUCHARME</Address_Line_2>
+<Address_Line_3>241 BALTIC-HANOVER ROAD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Baltic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06330-1100</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>8</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>7006994</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>396.98</From_Tran_Amt>
+<To_AcctNbr>602010249</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>CHRISTOPHER P MANNER</Address_Line_1>
+<Address_Line_2>MARGUERITE L CLARKE-MANNER</Address_Line_2>
+<Address_Line_3>6 UTZ DR</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Oakdale</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06370-1736</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>9</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>8002252</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>382.6</From_Tran_Amt>
+<To_AcctNbr>505010327</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>DEBRA D DUPUIS</Address_Line_1>
+<Address_Line_2>20 SALEM RIDGE DR NORTH</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Salem</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06420-3620</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>10</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>8004612</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>97.67</From_Tran_Amt>
+<To_AcctNbr>505019348</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>NANCY M MICHAUD</Address_Line_1>
+<Address_Line_2>MARK A MICHAUD</Address_Line_2>
+<Address_Line_3>35 R HAYWARD AVE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Colchester</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06415-1221</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>11</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>8004992</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>2640.07</From_Tran_Amt>
+<To_AcctNbr>505020541</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MARJORY M WALTERS</Address_Line_1>
+<Address_Line_2>RONALD H WALTERS</Address_Line_2>
+<Address_Line_3>100 WHIPPLE AVE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORWICH</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-6126</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>12</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-11.85</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>8203076</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>403.48</From_Tran_Amt>
+<To_AcctNbr>1113324717</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MELINDA L SATTERWHITE</Address_Line_1>
+<Address_Line_2>18 PEARL ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Norwich</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-4914</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>13</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-833.7</Avail_Balance>
+<Current_Balance>-833.7</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>8204374</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>7</From_Tran_Amt>
+<To_AcctNbr>1114384629</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>LISA D HOAGLAND</Address_Line_1>
+<Address_Line_2>MICHAEL HOAGLAND</Address_Line_2>
+<Address_Line_3>4 RICHMOND LN</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-3033</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>14</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>500092503</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>260.95</From_Tran_Amt>
+<To_AcctNbr>1113180713</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>PAUL S WRAGG</Address_Line_1>
+<Address_Line_2>135 ANN AVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1105</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>15</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>704000906</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>958.66</From_Tran_Amt>
+<To_AcctNbr>904003300</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KAREN ANDERSON</Address_Line_1>
+<Address_Line_2>ROBERT P ANDERSON</Address_Line_2>
+<Address_Line_3>535 W BEACH RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Charlestown</City>
+<State>RI</State>
+<Province></Province>
+<ZipCode>02813-1025</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>16</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112459218</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>319.94</From_Tran_Amt>
+<To_AcctNbr>901010679</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>RICHARD S CODY</Address_Line_1>
+<Address_Line_2>34 CHURCH ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-2739</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>17</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112524368</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>2149.12</From_Tran_Amt>
+<To_AcctNbr>1112524300</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ROBINSON M COMEAU</Address_Line_1>
+<Address_Line_2>291 ELM STREET</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Stonington</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06378-2927</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>18</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112531769</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>207.5</From_Tran_Amt>
+<To_AcctNbr>1114056088</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ROBYN E ODONNELL</Address_Line_1>
+<Address_Line_2>PHYLLIS E ODONNELL</Address_Line_2>
+<Address_Line_3>20 BOWLING LN</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>BRADFORD</City>
+<State>RI</State>
+<Province></Province>
+<ZipCode>02808-1100</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>19</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1112604037</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>28.56</From_Tran_Amt>
+<To_AcctNbr>1113508006</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MARY B JOSEPH</Address_Line_1>
+<Address_Line_2>AMY E SULLIVAN</Address_Line_2>
+<Address_Line_3>GEORGE A JOSEPH</Address_Line_3>
+<Address_Line_4>10 WESTCOTT RD THE STRAND</Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Waterford</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06385-3728</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>20</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112772066</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>246.96</From_Tran_Amt>
+<To_AcctNbr>505003290</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>CHANTAL WATROUS</Address_Line_1>
+<Address_Line_2>312 N STONINGTON RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Stonington</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06378-1520</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>21</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-77.27</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112862817</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>118.05</From_Tran_Amt>
+<To_AcctNbr>503036312</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>LEO C ANTONINO</Address_Line_1>
+<Address_Line_2>1095 FLANDERS RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1062</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>22</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112897921</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>1017.01</From_Tran_Amt>
+<To_AcctNbr>1114116626</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>LINDA L BURDICK</Address_Line_1>
+<Address_Line_2>STEPHEN H BURDICK SR</Address_Line_2>
+<Address_Line_3>110 FARMHOLME RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Stonington</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06378-2501</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>23</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1112901186</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>144.13</From_Tran_Amt>
+<To_AcctNbr>502071802</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JANINA M HARTMAN</Address_Line_1>
+<Address_Line_2>JEFFREY J HARTMAN</Address_Line_2>
+<Address_Line_3>232 COLONEL LEDYARD HIGHWAY</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1136</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>24</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113008311</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>333.41</From_Tran_Amt>
+<To_AcctNbr>1113008254</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ANTHONY R DUNN</Address_Line_1>
+<Address_Line_2>SARAH E DUNN</Address_Line_2>
+<Address_Line_3>54 GLENDALE RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>OAKDALE</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06370-1712</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>25</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-29.98</Avail_Balance>
+<Current_Balance>-14.99</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1113168967</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>94.72</From_Tran_Amt>
+<To_AcctNbr>1112558507</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KRISTINE L SAVAGE</Address_Line_1>
+<Address_Line_2>LISA M OUELLETTE</Address_Line_2>
+<Address_Line_3>47 C ST</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Groton</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06340-5360</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>26</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113467137</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>327.12</From_Tran_Amt>
+<To_AcctNbr>1113467129</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>WENDY J BICKNELL</Address_Line_1>
+<Address_Line_2>10 MEADOW DR</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Gales Ferry</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06335-1814</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>27</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113480543</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>23.77</From_Tran_Amt>
+<To_AcctNbr>1113316897</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>DIMITRI VOICECHOVSKI</Address_Line_1>
+<Address_Line_2>RAE RANDO VOICECHOVSKI</Address_Line_2>
+<Address_Line_3>2 WILLIAMSBURG DRIVE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Westerly</City>
+<State>RI</State>
+<Province></Province>
+<ZipCode>02891-3032</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>28</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>28.26</Avail_Balance>
+<Current_Balance>28.26</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113523575</From_AcctNbr>
+<From_Major_Desc>Consumer Loan</From_Major_Desc>
+<From_Tran_Amt>1200</From_Tran_Amt>
+<To_AcctNbr>1113468482</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>YVETTE C BLAIS</Address_Line_1>
+<Address_Line_2>1 THOMAS AVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>BALTIC</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06330-1032</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>28</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113549513</From_AcctNbr>
+<From_Major_Desc>Time Deposit</From_Major_Desc>
+<From_Tran_Amt>250</From_Tran_Amt>
+<To_AcctNbr>1113549505</To_AcctNbr>
+<To_Major_Desc>Retirement Plans</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SHAUN C YON</Address_Line_1>
+<Address_Line_2>GRETCHEN A PHILBRICK</Address_Line_2>
+<Address_Line_3>27 STURTEVANT AVENUE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORWICH</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-4315</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>29</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-233.8</Avail_Balance>
+<Current_Balance>-233.8</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1113561848</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>61.45</From_Tran_Amt>
+<To_AcctNbr>1112967469</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>STEPHEN S MEAGHER</Address_Line_1>
+<Address_Line_2>JANICE C MEAGHER</Address_Line_2>
+<Address_Line_3>118 CASTLE HILL RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Pawcatuck</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06379-1988</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>30</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-300.73</Avail_Balance>
+<Current_Balance>0.000000000000028</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113565890</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>128.74</From_Tran_Amt>
+<To_AcctNbr>1113565882</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>TIMOTHY J SOUSA</Address_Line_1>
+<Address_Line_2>TARA L SOUSA</Address_Line_2>
+<Address_Line_3>TAMMY L SOUSA</Address_Line_3>
+<Address_Line_4>18 SMITH ST</Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Niantic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06357-2524</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>31</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-1030</Avail_Balance>
+<Current_Balance>-515</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113733885</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>67.12</From_Tran_Amt>
+<To_AcctNbr>512010624</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>EMILY G LANZAROTTO</Address_Line_1>
+<Address_Line_2>281 GARDNER AVE UNIT H1</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NEW LONDON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06320-3050</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>32</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1113751275</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>589.46</From_Tran_Amt>
+<To_AcctNbr>1114130014</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ANNA T TROIANO</Address_Line_1>
+<Address_Line_2>148 HIGH ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-2416</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>33</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-9.56</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113751316</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>3044.42</From_Tran_Amt>
+<To_AcctNbr>1114052862</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KATIA N KINGSTON</Address_Line_1>
+<Address_Line_2>PO BOX 304</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Old Lyme</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06371-0304</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>34</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113767016</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>46.39</From_Tran_Amt>
+<To_AcctNbr>1113767008</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KRISTA M VERNO</Address_Line_1>
+<Address_Line_2>NICHOLAS E VERNO</Address_Line_2>
+<Address_Line_3>38 MAINS CROSSING</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>North Stonington</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06359-1203</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>35</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-21</Avail_Balance>
+<Current_Balance>-10.5</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113772081</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>15.45</From_Tran_Amt>
+<To_AcctNbr>1113278815</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>GENOVEVA DIP</Address_Line_1>
+<Address_Line_2>JAIME R DIP</Address_Line_2>
+<Address_Line_3>15 MALAVENDA LANE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORWICH</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-4926</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>36</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-58.44</Avail_Balance>
+<Current_Balance>-58.44</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1113793665</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>325</From_Tran_Amt>
+<To_AcctNbr>1113053522</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>PAUL B REAMS</Address_Line_1>
+<Address_Line_2>11 CARNOT CT</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Pawcatuck</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06379-2424</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>37</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-47</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113910037</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>75.32</From_Tran_Amt>
+<To_AcctNbr>1113910029</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JOSEPH P KONONCHIK</Address_Line_1>
+<Address_Line_2>ELAINE M KONONCHIK</Address_Line_2>
+<Address_Line_3>8 LIBBY DR</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>UNCASVILLE</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06382-1107</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>38</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-292.71</Avail_Balance>
+<Current_Balance>-47.06</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1113929765</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>18.99</From_Tran_Amt>
+<To_AcctNbr>1112914080</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MIRGEN E UZHURI</Address_Line_1>
+<Address_Line_2>ANXHELA UZHURI</Address_Line_2>
+<Address_Line_3>3 CATBIRD LN</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>East Lyme</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06333-1334</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>39</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1113962468</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>1287.23</From_Tran_Amt>
+<To_AcctNbr>1113826755</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ERICA A LUPO</Address_Line_1>
+<Address_Line_2>70 ORCHARD DRIVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Groton</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06340-2732</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>40</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>500</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114009714</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>79.31</From_Tran_Amt>
+<To_AcctNbr>1114059751</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JACOB W CHERENZIA</Address_Line_1>
+<Address_Line_2>437 EKONK HILL RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>VOLUNTOWN</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06384-1312</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>41</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-177.9</Avail_Balance>
+<Current_Balance>0.000000000000014</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114091240</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>176.33</From_Tran_Amt>
+<To_AcctNbr>1114190894</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>BRUCE S ANDERSON</Address_Line_1>
+<Address_Line_2>28 PELLEGRINO RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Stonington</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06378-2128</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>42</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-32.24</Avail_Balance>
+<Current_Balance>-16.12</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114127706</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>183.41</From_Tran_Amt>
+<To_AcctNbr>1112968623</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>VINCENZA M KARASEVICZ</Address_Line_1>
+<Address_Line_2>13 WILCOX CT</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>WATERFORD</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06385-1527</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>43</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-220</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114210569</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>65.94</From_Tran_Amt>
+<To_AcctNbr>1113512685</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ANTHONY V WALSTRA</Address_Line_1>
+<Address_Line_2>DENISE S WALSTRA</Address_Line_2>
+<Address_Line_3>13 INDIAN VALLEY DR</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Waterford</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06385-1144</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>44</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114226558</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>579.14</From_Tran_Amt>
+<To_AcctNbr>1114226491</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>CHRISSY D MCSWAIN</Address_Line_1>
+<Address_Line_2>19 MEADOW WOOD DR</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORTH STONINGTON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06359-1510</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>45</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-26.74</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114238149</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>32.52</From_Tran_Amt>
+<To_AcctNbr>1114341330</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MORGAN D BRIGHTMAN</Address_Line_1>
+<Address_Line_2>MICHELLE M UMRYSZ</Address_Line_2>
+<Address_Line_3>62 YETTER ROAD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1028</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>46</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114242257</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>5.55</From_Tran_Amt>
+<To_AcctNbr>1114242265</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>DANIEL S COATES</Address_Line_1>
+<Address_Line_2>BRENDA L PAYNE</Address_Line_2>
+<Address_Line_3>105 GALLUP HILL RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>LEDYARD</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06339-1613</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>47</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-33.9</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114245368</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>43.41</From_Tran_Amt>
+<To_AcctNbr>1113989280</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>LAURA J NESTA</Address_Line_1>
+<Address_Line_2>2 OAK ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Niantic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06357-2748</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>48</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114299498</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>78.52</From_Tran_Amt>
+<To_AcctNbr>1114299480</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>XING WANG</Address_Line_1>
+<Address_Line_2>YOU LIAN YU</Address_Line_2>
+<Address_Line_3>21 ONECO ST UNIT 3</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORWICH</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-3456</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>49</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114315054</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>5.78</From_Tran_Amt>
+<To_AcctNbr>1113711112</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KATE MURPHY</Address_Line_1>
+<Address_Line_2>12 ELAINE ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>PAWCATUCK</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06379-2518</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>50</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-157.19</Avail_Balance>
+<Current_Balance>-157.19</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114326374</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>5</From_Tran_Amt>
+<To_AcctNbr>1114326382</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>THOMAS L BEAUDOIN</Address_Line_1>
+<Address_Line_2>2224 GLASGO RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Griswold</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06351-9115</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>51</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114344409</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>66.35</From_Tran_Amt>
+<To_AcctNbr>1114342081</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SNEDIKER YACHT RESTORATION LLC</Address_Line_1>
+<Address_Line_2>22 MECHANIC ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Pawcatuck</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06379-2134</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>52</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>89.51</Avail_Balance>
+<Current_Balance>89.51</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114361651</From_AcctNbr>
+<From_Major_Desc>Commercial Loan</From_Major_Desc>
+<From_Tran_Amt>1700</From_Tran_Amt>
+<To_AcctNbr>1114283607</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SOPHIA D FOSS</Address_Line_1>
+<Address_Line_2>12 POCONO LN</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>DANBURY</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06810-4110</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>53</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114417917</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>24.66</From_Tran_Amt>
+<To_AcctNbr>1114417941</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>HANNAH J MENDILLO</Address_Line_1>
+<Address_Line_2>KYLE R MENDILLO</Address_Line_2>
+<Address_Line_3>520 OLD COLCHESTER RD</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Salem</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06420-3707</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>54</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114476864</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>126.91</From_Tran_Amt>
+<To_AcctNbr>1114262370</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>DONNA B SANFORD</Address_Line_1>
+<Address_Line_2>120 W MAIN ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>BALTIC</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06330-1034</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>55</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-53</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114546641</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>2.11</From_Tran_Amt>
+<To_AcctNbr>1113772825</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>KAYLA G SULLIVAN</Address_Line_1>
+<Address_Line_2>54 JEREMY HILL RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORTH STONINGTON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06359-1201</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>56</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114558307</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>13.64</From_Tran_Amt>
+<To_AcctNbr>1114512113</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>NIKHIL A PATEL</Address_Line_1>
+<Address_Line_2>HIMANSHIBEN A PATEL</Address_Line_2>
+<Address_Line_3>ALKESH H PATEL</Address_Line_3>
+<Address_Line_4>14 FOX RUN LANE</Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>MYSTIC</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1160</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>57</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-76.67</Avail_Balance>
+<Current_Balance>-22.41</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114565857</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>36.88</From_Tran_Amt>
+<To_AcctNbr>1114565849</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>DALE R TAYLOR</Address_Line_1>
+<Address_Line_2>136 HUNTERS RD LOT 138</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NORWICH</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-1919</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>58</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-36.2</Avail_Balance>
+<Current_Balance>-18.1</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114582760</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>57.83</From_Tran_Amt>
+<To_AcctNbr>1114556012</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ANN ESPOSITO</Address_Line_1>
+<Address_Line_2>KENNETH F SOEDER</Address_Line_2>
+<Address_Line_3>5 GROVE AVE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mystic</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06355-1811</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>59</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114596745</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>73.81</From_Tran_Amt>
+<To_AcctNbr>1114596737</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JENNIFER CHANGEUX</Address_Line_1>
+<Address_Line_2>100 LAURA LANE APT A6</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>ROCKY HILL</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06067-1534</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>60</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114614068</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>322.58</From_Tran_Amt>
+<To_AcctNbr>1114261926</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JOHN A GUARINO</Address_Line_1>
+<Address_Line_2>DIANA W GUARINO</Address_Line_2>
+<Address_Line_3>3 PORTER ST</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>QUAKER HILL</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06375-1515</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>61</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-18.21</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114615256</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>22.61</From_Tran_Amt>
+<To_AcctNbr>601060922</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>OLIVIA C MARSH</Address_Line_1>
+<Address_Line_2>34 MINER AVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>WATERFORD</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06385-2025</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>62</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-2</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114657969</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>13.56</From_Tran_Amt>
+<To_AcctNbr>1114657951</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SERGIO F DEOLIVEIRA</Address_Line_1>
+<Address_Line_2>ANA M DEOLIVEIRA</Address_Line_2>
+<Address_Line_3>45 LATHROP AVE</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>PAWCATUCK</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06379-1905</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>63</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114703861</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>8.48</From_Tran_Amt>
+<To_AcctNbr>1114825798</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>CHRISTINA A NOCITO</Address_Line_1>
+<Address_Line_2>25 WALDEN AVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>NEW LONDON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06320-3522</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>64</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-82</Avail_Balance>
+<Current_Balance>-41</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114775894</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>516.72</From_Tran_Amt>
+<To_AcctNbr>1114325516</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JOHN W FREEBY</Address_Line_1>
+<Address_Line_2>245 BENHAM RD APT J 8</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>GROTON</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06340-5048</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>65</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-19.98</Avail_Balance>
+<Current_Balance>-9.99</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114846265</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>152.76</From_Tran_Amt>
+<To_AcctNbr>1114846257</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>AFFORDABLE SERVICES GOSHEN ROAD LLC</Address_Line_1>
+<Address_Line_2>21 GOSHEN RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Waterford</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06385-3704</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>66</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>81.22</Avail_Balance>
+<Current_Balance>81.22</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114868938</From_AcctNbr>
+<From_Major_Desc>Commercial Loan</From_Major_Desc>
+<From_Tran_Amt>1300</From_Tran_Amt>
+<To_AcctNbr>1114160524</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JODY L MACHADO</Address_Line_1>
+<Address_Line_2>575 OLD COLCHESTER RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Uncasville</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06382-2023</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>67</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114870355</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>61.38</From_Tran_Amt>
+<To_AcctNbr>1114870339</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>ELIZABETH M WYLAND</Address_Line_1>
+<Address_Line_2>280 CONGDON RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>VOLUNTOWN</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06384-1115</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>68</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>500</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>5</Fee_Amt>
+<From_AcctNbr>1114939523</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>27</From_Tran_Amt>
+<To_AcctNbr>1114421421</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>THADDEUS CZYZEWSKI JR</Address_Line_1>
+<Address_Line_2>BEATRICE L CZYZEWSKI</Address_Line_2>
+<Address_Line_3>15 BANAS CT</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Norwich</City>
+<State>CT</State>
+<Province></Province>
+<ZipCode>06360-6003</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-07</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-05-06</Notice_Date>
+<Statement_Count>69</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>CHELSEA GROTON BANK</FI_Address1>
+<FI_Address2>904 Poquonnock Rd</FI_Address2>
+<FI_Address3>Groton  CT  06340-6629</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>CHELSEA GROTON BANK</FI_Name>
+<FI_Number>1087</FI_Number>
+<FI_Phone1>(860) 448-4200</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-65.57</Avail_Balance>
+<Current_Balance>-65.57</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>1114960940</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>25</From_Tran_Amt>
+<To_AcctNbr>1114807168</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+</CCS>

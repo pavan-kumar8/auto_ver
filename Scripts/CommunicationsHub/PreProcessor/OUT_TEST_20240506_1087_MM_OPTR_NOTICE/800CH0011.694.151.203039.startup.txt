@@ -1,0 +1,17 @@
+ClientCode=800CH
+DataFileName=118CG0111.82.01.OverdraftProtection.json
+DataFileName=118CG0111.82.QCO.json
+DataFileName=TEST_20240506_1087_MM_OPTR_NOTICE.XML
+ErrorFile=800CH0011.694.151.203039.error.txt
+Extras=--aardvarkAppAdminUri https://CSAVARDWEBUAT.americas.cshare.net/CCS_US_UAT_WS_4.1/AppAdmin/AppAdminWS.asmx --addJobQueue true --environment ccsccmustst01 --icmRegion US --jobConfigName JobConfig_OverdraftProtection.xml --q2g true --site Processing --streamSetupXML stream_setup_118CG0111_82.xml
+JobDescription=800CH0011 - Step 4 - Communications Hub QA - 118CG0111 Run #82 OverdraftProtection - Run #694
+JobNumber=800CH0011
+ProcessingScript=(null)
+Product=(null)
+ProgressFile=800CH0011.694.151.203039.progress.txt
+RunNumber=694
+SLAProcessCode=All
+StartupFileName=800CH0011.694.151.203039.startup.txt
+TraceFile=800CH0011.694.151.203039.trace.txt
+_Q2GType=COCC_Notice
+_requireSignOffYN=No
