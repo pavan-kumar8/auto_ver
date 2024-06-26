@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CCS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
+<Pack>
+<Addressee>
+<Address_Line_1>STEVEN WOLOSHIN</Address_Line_1>
+<Address_Line_2>LISA SCHWARTZ</Address_Line_2>
+<Address_Line_3>18 OLD ORCHARD LN</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Norwich</City>
+<State>VT</State>
+<Province></Province>
+<ZipCode>05055-9696</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>1</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Norwich</FI_Address1>
+<FI_Address2>320 Main Street</FI_Address2>
+<FI_Address3>Norwich  VT  05055</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(802) 649-2050</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>62000</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>226.55</From_Tran_Amt>
+<To_AcctNbr>415034</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MARGARET A FRENCH</Address_Line_1>
+<Address_Line_2>MARGARET FRENCH REV TRST</Address_Line_2>
+<Address_Line_3>7 HILLTOP DR</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>West Lebanon</City>
+<State>NH</State>
+<Province></Province>
+<ZipCode>03784-4400</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>2</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Main Office</FI_Address1>
+<FI_Address2>38 South Main Street</FI_Address2>
+<FI_Address3>Hanover  NH  03755</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 643-2244</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0.07</Avail_Balance>
+<Current_Balance>0.07</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>79459</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>198</From_Tran_Amt>
+<To_AcctNbr>494617</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SARAH W SCHINDLER</Address_Line_1>
+<Address_Line_2>122 WHITE ST</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>South Burlington</City>
+<State>VT</State>
+<Province></Province>
+<ZipCode>05403-5937</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>3</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Lyme</FI_Address1>
+<FI_Address2>On The Green</FI_Address2>
+<FI_Address3>Lyme  NH  03768</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 795-2288</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-20.06</Avail_Balance>
+<Current_Balance>-4</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>122457</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>335.44</From_Tran_Amt>
+<To_AcctNbr>579318</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>MEAGAN N KIDDER</Address_Line_1>
+<Address_Line_2>45 PLEASANT HILL AVE</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Mattapan</City>
+<State>MA</State>
+<Province></Province>
+<ZipCode>02126-2813</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>4</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - West Lebanon</FI_Address1>
+<FI_Address2>67 Main Street</FI_Address2>
+<FI_Address3>West Lebanon  NH  03784</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 298-9444</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>152348</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>2218.54</From_Tran_Amt>
+<To_AcctNbr>632356</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>BENJAMIN ROGERS</Address_Line_1>
+<Address_Line_2>EMILY ROGERS</Address_Line_2>
+<Address_Line_3>PO BOX 38</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Springfield</City>
+<State>NH</State>
+<Province></Province>
+<ZipCode>03284-0038</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>5</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Route 120</FI_Address1>
+<FI_Address2>42 Etna Road</FI_Address2>
+<FI_Address3>Lebanon  NH  03766</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 448-2220</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-4</Avail_Balance>
+<Current_Balance>-4</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>194191</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>22.99</From_Tran_Amt>
+<To_AcctNbr>512020</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>SARAH E LORD</Address_Line_1>
+<Address_Line_2>108 BROOK HOLLOW</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Hanover</City>
+<State>NH</State>
+<Province></Province>
+<ZipCode>03755-2802</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>6</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Main Office</FI_Address1>
+<FI_Address2>38 South Main Street</FI_Address2>
+<FI_Address3>Hanover  NH  03755</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 643-2244</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-915.66</Avail_Balance>
+<Current_Balance>-3</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>269530</From_AcctNbr>
+<From_Major_Desc>Savings</From_Major_Desc>
+<From_Tran_Amt>149.92</From_Tran_Amt>
+<To_AcctNbr>635482</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JAMIE TAYLOR</Address_Line_1>
+<Address_Line_2>PO BOX 1317</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Grantham</City>
+<State>NH</State>
+<Province></Province>
+<ZipCode>03753-1317</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>7</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Route 120</FI_Address1>
+<FI_Address2>42 Etna Road</FI_Address2>
+<FI_Address3>Lebanon  NH  03766</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 448-2220</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-1</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>587865</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>164.75</From_Tran_Amt>
+<To_AcctNbr>526244</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>GEORGE E ABETTI</Address_Line_1>
+<Address_Line_2>SUSANNE V ABETTI</Address_Line_2>
+<Address_Line_3>923 KINGS HWY</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>White River Junction</City>
+<State>VT</State>
+<Province></Province>
+<ZipCode>05001-9664</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>8</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Norwich</FI_Address1>
+<FI_Address2>320 Main Street</FI_Address2>
+<FI_Address3>Norwich  VT  05055</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(802) 649-2050</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>40560706</From_AcctNbr>
+<From_Major_Desc>Consumer Loan</From_Major_Desc>
+<From_Tran_Amt>81.03</From_Tran_Amt>
+<To_AcctNbr>560706</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>FRANK J BARRETT JR</Address_Line_1>
+<Address_Line_2>SHEILA B SMITH</Address_Line_2>
+<Address_Line_3>PO BOX 55</Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>White River Junction</City>
+<State>VT</State>
+<Province></Province>
+<ZipCode>05001-0055</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>9</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - West Lebanon</FI_Address1>
+<FI_Address2>67 Main Street</FI_Address2>
+<FI_Address3>West Lebanon  NH  03784</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 298-9444</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>40631895</From_AcctNbr>
+<From_Major_Desc>Consumer Loan</From_Major_Desc>
+<From_Tran_Amt>121.65</From_Tran_Amt>
+<To_AcctNbr>631895</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>FRANK MCDOUGALL</Address_Line_1>
+<Address_Line_2>DEBORAH MCDOUGAL</Address_Line_2>
+<Address_Line_3>DEBORAH MCDOUGALL</Address_Line_3>
+<Address_Line_4>300 GROVE ST UNIT 6</Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Rutland</City>
+<State>VT</State>
+<Province></Province>
+<ZipCode>05701-2300</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>10</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Main Office</FI_Address1>
+<FI_Address2>38 South Main Street</FI_Address2>
+<FI_Address3>Hanover  NH  03755</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 643-2244</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>0</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>6000048743</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>393.8</From_Tran_Amt>
+<To_AcctNbr>489740</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+<Pack>
+<Addressee>
+<Address_Line_1>JAMES L GERVAIS</Address_Line_1>
+<Address_Line_2>501 BROADCOVE RD</Address_Line_2>
+<Address_Line_3></Address_Line_3>
+<Address_Line_4></Address_Line_4>
+<Address_Line_5></Address_Line_5>
+<Address_Line_6></Address_Line_6>
+<Address_Line_7></Address_Line_7>
+<City>Hopkinton</City>
+<State>NH</State>
+<Province></Province>
+<ZipCode>03229-2716</ZipCode>
+<PostCode></PostCode>
+<Country>USA</Country>
+</Addressee>
+<File_Information>
+<Appl_Number>1600</Appl_Number>
+<Creation_Date>2024-05-02</Creation_Date>
+<Document_Delivery_Method>Mail</Document_Delivery_Method>
+<Form_Name>MM_OPTR</Form_Name>
+<GV_Delivery>UploadNoEmail</GV_Delivery>
+<Notice_Date>2024-04-12</Notice_Date>
+<Statement_Count>11</Statement_Count>
+</File_Information>
+<FI_Information>
+<FI_Address1>LNB - Concord</FI_Address1>
+<FI_Address2>76 South Main St</FI_Address2>
+<FI_Address3>Concord  NH  03301</FI_Address3>
+<FI_Address4></FI_Address4>
+<FI_Address5></FI_Address5>
+<FI_Address6></FI_Address6>
+<FI_Address7></FI_Address7>
+<FI_Brand>0</FI_Brand>
+<FI_Name>Ledyard National Bank</FI_Name>
+<FI_Number>1166</FI_Number>
+<FI_Phone1>(603) 513-4100</FI_Phone1>
+<FI_Phone2></FI_Phone2>
+</FI_Information>
+<Account_Information>
+<Avail_Balance>-142.99</Avail_Balance>
+<Current_Balance>0</Current_Balance>
+<Fee_Amt>0</Fee_Amt>
+<From_AcctNbr>6000140573</From_AcctNbr>
+<From_Major_Desc>Checking</From_Major_Desc>
+<From_Tran_Amt>65.53</From_Tran_Amt>
+<To_AcctNbr>6000140391</To_AcctNbr>
+<To_Major_Desc>Checking</To_Major_Desc>
+</Account_Information>
+<Product_Information>
+</Product_Information>
+<Form_Loops>
+</Form_Loops>
+</Pack>
+</CCS>

@@ -1,0 +1,700 @@
+{
+"HEADER" : {
+   "RECORD_COUNT" : 11,
+   "CCS_CLIENT_CODE" : "293LB",
+   "CONNECT_PRODUCT" : "Notice",
+   "CONTRACT" : "293LB0111",
+   "DERIVATIVE_FILE" : {
+      "FILE_NAME" : "293LB0111.323.01.OverdraftProtection.json",
+      "DATE_CREATED" : "2024-05-30",
+      "TIME_CREATED" : "20:25:04"
+   },
+   "RUN_NUMBER" : "323",
+   "ORIGINAL_FILE" : {
+      "TIME_RECEIVED" : "17:29:00",
+      "FILE_NAME" : "TEST_20240412_1166_MM_OPTR_NOTICE.XML",
+      "DATE_RECEIVED" : "2024-05-02"
+   },
+   "DOCUMENT_TYPE" : "OverdraftProtection"
+},
+"RECORDS" : [
+{
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "STEVEN WOLOSHIN",
+         "LISA SCHWARTZ",
+         "18 OLD ORCHARD LN"
+      ],
+      "COUNTRY" : "USA",
+      "CITY" : "Norwich",
+      "POSTCODE" : "05055-9696",
+      "TERRITORY" : "VT"
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "415034"
+            },
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "62000",
+               "TRANSFER_AMOUNT" : "226.55"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Statement_Count" : "1",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR"
+         },
+         "CURRENT_BALANCE" : "0",
+         "TRANSFER_FEE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ],
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "VIEWPOINT" : 1
+   },
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Norwich",
+         "320 Main Street",
+         "Norwich  VT  05055"
+      ]
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   }
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-04-12",
+      "ACCOUNT_NUMBER" : null
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "MARGARET A FRENCH",
+         "MARGARET FRENCH REV TRST",
+         "7 HILLTOP DR"
+      ],
+      "POSTCODE" : "03784-4400",
+      "CITY" : "West Lebanon",
+      "COUNTRY" : "USA",
+      "TERRITORY" : "NH"
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0",
+         "AVAILABLE_BALANCE" : "0.07",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Statement_Count" : "2",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-02"
+         },
+         "CURRENT_BALANCE" : "0.07",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "198",
+               "ACCOUNT_NUMBER" : "79459"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "494617"
+            }
+         }
+      }
+   ],
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Main Office",
+         "38 South Main Street",
+         "Hanover  NH  03755"
+      ]
+   }
+},
+{
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Lyme",
+         "On The Green",
+         "Lyme  NH  03768"
+      ]
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "VT",
+      "POSTCODE" : "05403-5937",
+      "CITY" : "South Burlington",
+      "COUNTRY" : "USA",
+      "ADDRESS_LINES" : [
+         "SARAH W SCHINDLER",
+         "122 WHITE ST"
+      ]
+   },
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "-20.06",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Statement_Count" : "3",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail"
+         },
+         "CURRENT_BALANCE" : "-4",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "579318"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "335.44",
+               "ACCOUNT_NUMBER" : "122457"
+            }
+         },
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1166"
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "BRAND_CODE" : "0",
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - West Lebanon",
+         "67 Main Street",
+         "West Lebanon  NH  03784"
+      ]
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "DOCUMENTS" : [
+      {
+         "CUSTOM_FIELDS" : {
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Statement_Count" : "4",
+            "File_Information/Notice_Date" : "2024-04-12"
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "CURRENT_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "2218.54",
+               "ACCOUNT_NUMBER" : "152348"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "632356"
+            }
+         },
+         "TRANSFER_FEE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail"
+      }
+   ],
+   "ADDRESS" : {
+      "CITY" : "Mattapan",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "02126-2813",
+      "TERRITORY" : "MA",
+      "ADDRESS_LINES" : [
+         "MEAGAN N KIDDER",
+         "45 PLEASANT HILL AVE"
+      ]
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "BRAND_CODE" : "0",
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Route 120",
+         "42 Etna Road",
+         "Lebanon  NH  03766"
+      ]
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "TERRITORY" : "NH",
+      "POSTCODE" : "03284-0038",
+      "CITY" : "Springfield",
+      "COUNTRY" : "USA",
+      "ADDRESS_LINES" : [
+         "BENJAMIN ROGERS",
+         "EMILY ROGERS",
+         "PO BOX 38"
+      ]
+   },
+   "DOCUMENTS" : [
+      {
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Statement_Count" : "5",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "CURRENT_BALANCE" : "-4",
+         "AVAILABLE_BALANCE" : "-4",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "512020"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "22.99",
+               "ACCOUNT_NUMBER" : "194191"
+            }
+         }
+      }
+   ]
+},
+{
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Main Office",
+         "38 South Main Street",
+         "Hanover  NH  03755"
+      ]
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "SARAH E LORD",
+         "108 BROOK HOLLOW"
+      ],
+      "TERRITORY" : "NH",
+      "CITY" : "Hanover",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "03755-2802"
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "269530",
+               "TRANSFER_AMOUNT" : "149.92"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "635482"
+            }
+         },
+         "CURRENT_BALANCE" : "-3",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Statement_Count" : "6",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-02"
+         },
+         "AVAILABLE_BALANCE" : "-915.66",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "BRAND_CODE" : "0",
+   "EXTERNAL_CLIENT_CODE" : "1166"
+},
+{
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Route 120",
+         "42 Etna Road",
+         "Lebanon  NH  03766"
+      ]
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Statement_Count" : "7"
+         },
+         "CURRENT_BALANCE" : "0",
+         "AVAILABLE_BALANCE" : "-1",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "164.75",
+               "ACCOUNT_NUMBER" : "587865"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "526244"
+            }
+         }
+      }
+   ],
+   "ADDRESS" : {
+      "POSTCODE" : "03753-1317",
+      "COUNTRY" : "USA",
+      "CITY" : "Grantham",
+      "TERRITORY" : "NH",
+      "ADDRESS_LINES" : [
+         "JAMIE TAYLOR",
+         "PO BOX 1317"
+      ]
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1
+   },
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-04-12",
+      "ACCOUNT_NUMBER" : null
+   },
+   "EXTERNAL_CLIENT_CODE" : "1166"
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "DOCUMENTS" : [
+      {
+         "TRANSFER_FEE" : "0",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "DELIVERY_METHOD" : "Mail",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "40560706",
+               "TRANSFER_AMOUNT" : "81.03"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "560706"
+            }
+         },
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Statement_Count" : "8",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR"
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "CURRENT_BALANCE" : "0"
+      }
+   ],
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "GEORGE E ABETTI",
+         "SUSANNE V ABETTI",
+         "923 KINGS HWY"
+      ],
+      "TERRITORY" : "VT",
+      "POSTCODE" : "05001-9664",
+      "COUNTRY" : "USA",
+      "CITY" : "White River Junction"
+   },
+   "WORKFLOW" : {
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "INSERT" : 1,
+      "LODGE" : 1,
+      "EMAIL" : 0
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Norwich",
+         "320 Main Street",
+         "Norwich  VT  05055"
+      ]
+   }
+},
+{
+   "BRAND_CODE" : "0",
+   "STATEMENT_IDENTIFICATION" : {
+      "ACCOUNT_NUMBER" : null,
+      "STATEMENT_TO_DATE" : "2024-04-12"
+   },
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - West Lebanon",
+         "67 Main Street",
+         "West Lebanon  NH  03784"
+      ]
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "FRANK J BARRETT JR",
+         "SHEILA B SMITH",
+         "PO BOX 55"
+      ],
+      "TERRITORY" : "VT",
+      "CITY" : "White River Junction",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "05001-0055"
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "40631895",
+               "TRANSFER_AMOUNT" : "121.65"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "631895"
+            }
+         },
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "9",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "CURRENT_BALANCE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "WORKFLOW" : {
+      "LODGE" : 1,
+      "EMAIL" : 0,
+      "VIEWPOINT" : 1,
+      "DISPATCH" : 0,
+      "PRINT" : 1,
+      "INSERT" : 1
+   }
+},
+{
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-04-12",
+      "ACCOUNT_NUMBER" : null
+   },
+   "BRAND_CODE" : "0",
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Main Office",
+         "38 South Main Street",
+         "Hanover  NH  03755"
+      ]
+   },
+   "WORKFLOW" : {
+      "INSERT" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "VIEWPOINT" : 1,
+      "EMAIL" : 0,
+      "LODGE" : 1
+   },
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "FRANK MCDOUGALL",
+         "DEBORAH MCDOUGAL",
+         "DEBORAH MCDOUGALL",
+         "300 GROVE ST UNIT 6"
+      ],
+      "POSTCODE" : "05701-2300",
+      "COUNTRY" : "USA",
+      "CITY" : "Rutland",
+      "TERRITORY" : "VT"
+   },
+   "DOCUMENTS" : [
+      {
+         "AVAILABLE_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Statement_Count" : "10",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Document_Delivery_Method" : "Mail",
+            "File_Information/Creation_Date" : "2024-05-02"
+         },
+         "CURRENT_BALANCE" : "0",
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "393.8",
+               "ACCOUNT_NUMBER" : "6000048743"
+            },
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "489740"
+            }
+         },
+         "TRANSFER_FEE" : "0",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice"
+      }
+   ]
+},
+{
+   "EXTERNAL_CLIENT_CODE" : "1166",
+   "STATEMENT_IDENTIFICATION" : {
+      "STATEMENT_TO_DATE" : "2024-04-12",
+      "ACCOUNT_NUMBER" : null
+   },
+   "BRAND_CODE" : "0",
+   "WORKFLOW" : {
+      "EMAIL" : 0,
+      "LODGE" : 1,
+      "PRINT" : 1,
+      "DISPATCH" : 0,
+      "INSERT" : 1,
+      "VIEWPOINT" : 1
+   },
+   "DOCUMENTS" : [
+      {
+         "ACCOUNT_TRANSFER_DETAILS" : {
+            "TO_ACCOUNT" : {
+               "ACCOUNT_NUMBER" : "6000140391"
+            },
+            "FROM_ACCOUNT" : {
+               "TRANSFER_AMOUNT" : "65.53",
+               "ACCOUNT_NUMBER" : "6000140573"
+            }
+         },
+         "CURRENT_BALANCE" : "0",
+         "CUSTOM_FIELDS" : {
+            "File_Information/Statement_Count" : "11",
+            "File_Information/Creation_Date" : "2024-05-02",
+            "File_Information/Form_Name" : "MM_OPTR",
+            "File_Information/Appl_Number" : "1600",
+            "File_Information/GV_Delivery" : "UploadNoEmail",
+            "File_Information/Notice_Date" : "2024-04-12",
+            "File_Information/Document_Delivery_Method" : "Mail"
+         },
+         "AVAILABLE_BALANCE" : "-142.99",
+         "DELIVERY_METHOD" : "Mail",
+         "TEMPLATE" : "Overdraft Protection Notice",
+         "TRANSFER_FEE" : "0"
+      }
+   ],
+   "ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "JAMES L GERVAIS",
+         "501 BROADCOVE RD"
+      ],
+      "CITY" : "Hopkinton",
+      "COUNTRY" : "USA",
+      "POSTCODE" : "03229-2716",
+      "TERRITORY" : "NH"
+   },
+   "CLIENT_NAME" : "Ledyard National Bank",
+   "RETURN_ADDRESS" : {
+      "ADDRESS_LINES" : [
+         "LNB - Concord",
+         "76 South Main St",
+         "Concord  NH  03301"
+      ]
+   }
+}
+]
+}

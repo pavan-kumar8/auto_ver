@@ -1,0 +1,9 @@
+StartupFileName=startup.txt
+Extras=--inspirejob 800CH0011 --converter COCC_TimeDepositRenewal --startuponly
+JobDescription=232NT0111 step 3 - Communication Hub Preprocessor DEV - COCC_TimeDepositRenewal # 999
+ClientCode=232NT
+ProcessingsScript=C:\Strawberry\Perl\bin\perl.exe connect2_convert.pl
+TraceFile=trace.txt
+DataFileName=TEST_20240415_1231_TD_RENNT_NOTICE.XML
+JobNumber=232NT0111
+ErrorFile=error.txt

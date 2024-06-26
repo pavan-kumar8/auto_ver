@@ -1,0 +1,9 @@
+StartupFileName=startup.txt
+Extras=--inspirejob 800CH0011 --converter COCC_OverdraftProtection --startuponly
+JobDescription=293LB0111 step 3 - Communication Hub Preprocessor DEV - COCC_OverdraftProtection # 999
+ClientCode=293LB
+ProcessingsScript=C:\Strawberry\Perl\bin\perl.exe connect2_convert.pl
+TraceFile=trace.txt
+DataFileName=TEST_20240412_1166_MM_OPTR_NOTICE.XML
+JobNumber=293LB0111
+ErrorFile=error.txt
